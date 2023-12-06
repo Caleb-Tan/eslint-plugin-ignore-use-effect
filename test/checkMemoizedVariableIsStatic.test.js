@@ -1,6 +1,6 @@
 "use strict";
 
-const ReactHooksESLintRule = require("../lib/rules/BetterExhaustiveDeps.js");
+const ReactHooksESLintRule = require("../lib/rules/BetterExhaustiveDeps.cjs");
 const ESLintTester = require("eslint").RuleTester;
 
 /**
