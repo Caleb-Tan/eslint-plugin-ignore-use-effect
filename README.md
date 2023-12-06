@@ -17,6 +17,7 @@ module.exports = {
   plugins: ["react-hooks"],
   rules: {
     "react-hooks/exhaustive-deps": "off",
+    'ignore-use-effect/exhaustive-deps': 'warn',
   }
   // ...
 }
