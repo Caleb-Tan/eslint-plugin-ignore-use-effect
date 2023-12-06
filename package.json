@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-ignore-use-effect",
   "description": "Better react exhaustive-deps eslint plugin",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "lib/index.cjs",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
